@@ -89,4 +89,4 @@ train.to_json("data/processed/train.jsonl")
 validation.to_json("data/processed/validation.jsonl")
 test.to_json("data/processed/test.jsonl")
 
-print("\nData processing complete. Check data/data/processed for the processed files.")
+print("\nData processing complete. Check data/processed for the processed files.")
