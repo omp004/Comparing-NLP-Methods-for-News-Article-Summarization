@@ -33,6 +33,15 @@ cd Comparing-NLP-Methods-for-News-Article-Summarization
 pip install -r requirements.txt
 ```
 
+Running Lead3: 
+```bash
+python -m src.extractive.lead3_baseline
+```
+
+Running TextRank: 
+```bash
+python -m src.extractive.text_rank
+```
 ## Results
 
 TBD
