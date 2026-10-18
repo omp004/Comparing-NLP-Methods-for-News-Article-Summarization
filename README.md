@@ -38,6 +38,10 @@ Running Lead3:
 python -m src.extractive.lead3_baseline
 ```
 
+Running TextRank: 
+```bash
+python -m src.extractive.text_rank
+```
 ## Results
 
 TBD
